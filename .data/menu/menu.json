@@ -1,0 +1,47 @@
+{
+  "Pepperoni Pizza" : {
+    "small" : "$8.99",
+    "medium" : "$10.99",
+    "large" : "$12.99"
+  },
+  "Cheese Pizza" : {
+    "small" : "$6.99",
+    "medium" : "$8.99",
+    "large" : "$10.99"
+  },
+  "Sausage Pizza" : {
+    "small" : "$9.99",
+    "medium" : "$11.99",
+    "large" : "$13.99"
+  },
+  "Coke" : {
+    "small" : "$1.99",
+    "medium" : "$2.99",
+    "large" : "$3.99"
+  },
+  "Sprite" : {
+    "small" : "$1.99",
+    "medium" : "$2.99",
+    "large" : "$3.99"
+  },
+  "Pepsi" : {
+    "small" : "$1.99",
+    "medium" : "$2.99",
+    "large" : "$3.99"
+  },
+  "French Fries" : {
+    "small" : "$4.99",
+    "medium" : "$5.99",
+    "large" : "$12.99"
+  },
+  "Hot Wings" : {
+    "small" : "$7.99",
+    "medium" : "$9.99",
+    "large" : "$12.99"
+  },
+  "Bread Sticks" : {
+    "small" : "$4.99",
+    "medium" : "$6.99",
+    "large" : "$8.99"
+  }
+}
