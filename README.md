@@ -102,7 +102,7 @@ Required fields: (in JSON payload) `email`
 Optional fields: `cartItemId` (if not included all items in cart removed)  
 Requires Token: Yes
 
-### `/order`
+### `/orders`
 
 ##### POST
 
